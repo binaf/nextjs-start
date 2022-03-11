@@ -1,5 +1,9 @@
 # Dependency directories
 node_modules
+dist
+public
+.next
+.env
 
 # IDE
 .history
